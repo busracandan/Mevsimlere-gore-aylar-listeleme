@@ -1,0 +1,7 @@
+c:\users\asus\documents\visual studio 2010\Projects\mevsime göre ayları listeleme\mevsime göre ayları listeleme\bin\Debug\mevsime göre ayları listeleme.exe
+c:\users\asus\documents\visual studio 2010\Projects\mevsime göre ayları listeleme\mevsime göre ayları listeleme\bin\Debug\mevsime göre ayları listeleme.pdb
+c:\users\asus\documents\visual studio 2010\Projects\mevsime göre ayları listeleme\mevsime göre ayları listeleme\obj\x86\Debug\mevsime_göre_ayları_listeleme.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\mevsime göre ayları listeleme\mevsime göre ayları listeleme\obj\x86\Debug\mevsime_göre_ayları_listeleme.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\mevsime göre ayları listeleme\mevsime göre ayları listeleme\obj\x86\Debug\mevsime göre ayları listeleme.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\mevsime göre ayları listeleme\mevsime göre ayları listeleme\obj\x86\Debug\mevsime göre ayları listeleme.exe
+c:\users\asus\documents\visual studio 2010\Projects\mevsime göre ayları listeleme\mevsime göre ayları listeleme\obj\x86\Debug\mevsime göre ayları listeleme.pdb
